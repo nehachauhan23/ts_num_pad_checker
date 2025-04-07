@@ -26,7 +26,7 @@ Setup
 
 > npm i 
 
-> npm start 
+> npm run start 
 
  #The test cases are in the test.ts file. You may change the test cases by adding
  your own values 
